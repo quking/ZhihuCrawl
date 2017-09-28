@@ -1,5 +1,5 @@
 # ZhihuSpider
-### This is spider which crawls the all commenst from a topic of ZhiHu
+### This is spider which crawls the all comments from a topic of ZhiHu
 内容   :爬取知乎话题下的所有回答，并制作成词云
 博客地址：http://blog.csdn.net/sinat_36899414/article/details/78117286
 爬取的知乎话题：
